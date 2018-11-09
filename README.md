@@ -7,3 +7,6 @@ Multi-model biometric by fusion of face and iris
 ## U-net iris segmentation result
 The pretrained U-net for iris segmentation: https://github.com/jus390/U-net-Iris-segmentation
 ![](https://github.com/stephenkung/Face-Iris/blob/master/pics/1.PNG)
+
+## Haar cascade method to detect face and eye area result
+![](https://github.com/stephenkung/Face-Iris/blob/master/pics/2.PNG)
