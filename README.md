@@ -1,6 +1,10 @@
 # Face-Iris
 Multi-model biometric by fusion of face and iris
 
+## papers for this topic  
+includes face only, iris only and multi-modal system   
+https://drive.google.com/open?id=1u3IqMlJp7VCJxEVFvG15zTY4BX8SH2lU
+
 ## traditional Hough transform iris segmentation(circle detection only)
 ![](https://github.com/stephenkung/Face-Iris/blob/master/pics/0.PNG)
 
