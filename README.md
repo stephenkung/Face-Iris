@@ -6,7 +6,7 @@ Multi-model biometric by fusion of face and iris
 
 ## U-net iris segmentation result
 The pretrained U-net for iris segmentation: https://github.com/jus390/U-net-Iris-segmentation     
-The related paper "End-to-End Iris Segmentation Using U-Net"     
+This network is form paper: "End-to-End Iris Segmentation Using U-Net"     
 ![](https://github.com/stephenkung/Face-Iris/blob/master/pics/1.PNG)
 
 ## Haar cascade method to detect face and eye area result
@@ -14,6 +14,6 @@ The related paper "End-to-End Iris Segmentation Using U-Net"
 
 ## Face verfication code     
 contains 2 versions:      
-VGG16+ Siamese network + contrastive loss    
-Inception + triplet loss    
+1)VGG16+ Siamese network + contrastive loss    
+2)Inception + triplet loss    
 https://drive.google.com/drive/folders/16RES3HUE7N_AEEYRk862VyrzM5oDWjom?usp=sharing
