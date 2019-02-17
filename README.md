@@ -16,9 +16,3 @@ This network is form paper: "End-to-End Iris Segmentation Using U-Net"
 ## Haar cascade method to detect face and eye area result
 ![](https://github.com/stephenkung/Face-Iris/blob/master/pics/2.PNG)
 
-## Face verfication code     
-This code is a little large, I can't upload it to Github, so I put it in google cloud.    
-it contains 2 versions of face verificaiton:      
-1)VGG16+ Siamese network + contrastive loss, idea comes from DeepFace        
-2)Inception + triplet loss, idea comes form FaceNet        
-https://drive.google.com/drive/folders/16RES3HUE7N_AEEYRk862VyrzM5oDWjom?usp=sharing
